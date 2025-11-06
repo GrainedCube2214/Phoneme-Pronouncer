@@ -1,0 +1,6 @@
+# Track all WAV audio files in LFS
+*.wav filter=lfs diff=lfs merge=lfs -text
+
+# Optional: track other large binary files
+# *.mp3 filter=lfs diff=lfs merge=lfs -text
+# *.bin filter=lfs diff=lfs merge=lfs -text
