@@ -1,0 +1,7 @@
+{
+  "timit_root": "C:\\Users\\ananth\\Documents\\Projects\\Phoneme-Projects\\dataset",
+  "train_dir": "C:\\Users\\ananth\\Documents\\Projects\\Phoneme-Projects\\dataset\\TRAIN",
+  "test_dir": "C:\\Users\\ananth\\Documents\\Projects\\Phoneme-Projects\\dataset\\TEST",
+  "doc_dir": "C:\\Users\\ananth\\Documents\\Projects\\Phoneme-Projects\\dataset\\DOC",
+  "uppercase_extensions": true
+}
