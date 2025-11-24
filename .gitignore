@@ -1,0 +1,91 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+#dataset
+data_new/
+
+# Virtual Environments
+faiproj/
+venv/
+env/
+ENV/
+vmfa/
+vtrain/
+.venv
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# Data (too large for Git)
+data_new/TRAIN/
+data_new/TEST/
+data/
+TIMIT/
+
+# Large embedding files (exclude from Git)
+artifacts/embeddings_*.npz
+artifacts/checkpoint_*.npz
+artifacts/segment_embeddings*.npz
+
+# Keep these artifacts (small, needed for inference)
+!artifacts/phoneme_prototypes_large.pkl
+!artifacts/phoneme_prototypes_large.json
+# !artifacts/embeds_partial.json
+
+# Results and outputs
+results/
+timit_results_individual/
+diagnostics_output/
+*.json
+!artifacts/*.json
+!timit_test_results*.json
+
+# Audio recordings
+*.wav
+*.WAV
+recording*.wav
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Logs
+*.log
+
+# Generated requirements lists
+*_requirements.txt
+*_conda_list.txt
+
+# Compressed archives
+*.zip
+*.tar.gz
+*.tgz
+
+# Model downloads cache
+.cache/
+transformers_cache/

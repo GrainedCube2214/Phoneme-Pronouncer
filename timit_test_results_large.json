@@ -1,0 +1,405 @@
+{
+  "total_files": 500,
+  "total_segments": 9950,
+  "total_known": 9641,
+  "total_correct": 9070,
+  "overall_accuracy": 0.9407737786536666,
+  "phone_accuracies": {
+    "sh": {
+      "accuracy": 0.9512195121951219,
+      "correct": 234,
+      "total": 246
+    },
+    "iy": {
+      "accuracy": 0.9513274336283186,
+      "correct": 645,
+      "total": 678
+    },
+    "ae": {
+      "accuracy": 0.9353233830845771,
+      "correct": 376,
+      "total": 402
+    },
+    "er": {
+      "accuracy": 0.9577981651376147,
+      "correct": 522,
+      "total": 545
+    },
+    "d": {
+      "accuracy": 0.8382352941176471,
+      "correct": 114,
+      "total": 136
+    },
+    "aa": {
+      "accuracy": 0.9378787878787879,
+      "correct": 619,
+      "total": 660
+    },
+    "r": {
+      "accuracy": 0.9264705882352942,
+      "correct": 315,
+      "total": 340
+    },
+    "k": {
+      "accuracy": 0.9375,
+      "correct": 420,
+      "total": 448
+    },
+    "s": {
+      "accuracy": 0.9679572763684913,
+      "correct": 725,
+      "total": 749
+    },
+    "uw": {
+      "accuracy": 0.9633507853403142,
+      "correct": 184,
+      "total": 191
+    },
+    "ih": {
+      "accuracy": 0.9481361426256077,
+      "correct": 585,
+      "total": 617
+    },
+    "ng": {
+      "accuracy": 0.9382716049382716,
+      "correct": 76,
+      "total": 81
+    },
+    "w": {
+      "accuracy": 0.9424083769633508,
+      "correct": 180,
+      "total": 191
+    },
+    "l": {
+      "accuracy": 0.9307692307692308,
+      "correct": 363,
+      "total": 390
+    },
+    "y": {
+      "accuracy": 0.9239130434782609,
+      "correct": 85,
+      "total": 92
+    },
+    "ow": {
+      "accuracy": 0.967741935483871,
+      "correct": 210,
+      "total": 217
+    },
+    "eh": {
+      "accuracy": 0.9473684210526315,
+      "correct": 360,
+      "total": 380
+    },
+    "n": {
+      "accuracy": 0.9391891891891891,
+      "correct": 278,
+      "total": 296
+    },
+    "oy": {
+      "accuracy": 0.9101123595505618,
+      "correct": 81,
+      "total": 89
+    },
+    "ay": {
+      "accuracy": 0.9341085271317829,
+      "correct": 241,
+      "total": 258
+    },
+    "dh": {
+      "accuracy": 0.9111111111111111,
+      "correct": 41,
+      "total": 45
+    },
+    "t": {
+      "accuracy": 0.8294797687861272,
+      "correct": 287,
+      "total": 346
+    },
+    "z": {
+      "accuracy": 0.9545454545454546,
+      "correct": 315,
+      "total": 330
+    },
+    "p": {
+      "accuracy": 0.88,
+      "correct": 220,
+      "total": 250
+    },
+    "th": {
+      "accuracy": 0.9833333333333333,
+      "correct": 59,
+      "total": 60
+    },
+    "f": {
+      "accuracy": 0.9681274900398407,
+      "correct": 243,
+      "total": 251
+    },
+    "b": {
+      "accuracy": 0.9621212121212122,
+      "correct": 127,
+      "total": 132
+    },
+    "m": {
+      "accuracy": 0.9565217391304348,
+      "correct": 220,
+      "total": 230
+    },
+    "aw": {
+      "accuracy": 0.9846153846153847,
+      "correct": 64,
+      "total": 65
+    },
+    "ah": {
+      "accuracy": 0.9491017964071856,
+      "correct": 317,
+      "total": 334
+    },
+    "ey": {
+      "accuracy": 0.9655172413793104,
+      "correct": 224,
+      "total": 232
+    },
+    "ch": {
+      "accuracy": 0.9642857142857143,
+      "correct": 54,
+      "total": 56
+    },
+    "uh": {
+      "accuracy": 0.9545454545454546,
+      "correct": 42,
+      "total": 44
+    },
+    "v": {
+      "accuracy": 0.946236559139785,
+      "correct": 88,
+      "total": 93
+    },
+    "g": {
+      "accuracy": 0.9259259259259259,
+      "correct": 75,
+      "total": 81
+    },
+    "hh": {
+      "accuracy": 0.9245283018867925,
+      "correct": 49,
+      "total": 53
+    },
+    "jh": {
+      "accuracy": 0.9696969696969697,
+      "correct": 32,
+      "total": 33
+    }
+  },
+  "family_accuracies": {
+    "fricatives": {
+      "accuracy": 0.9600437876299945,
+      "correct": 1754,
+      "total": 1827
+    },
+    "vowels": {
+      "accuracy": 0.9474442044636429,
+      "correct": 3948,
+      "total": 4167
+    },
+    "liquids": {
+      "accuracy": 0.9411764705882353,
+      "correct": 1200,
+      "total": 1275
+    },
+    "stops": {
+      "accuracy": 0.8923187365398421,
+      "correct": 1243,
+      "total": 1393
+    },
+    "nasals": {
+      "accuracy": 0.9456342668863262,
+      "correct": 574,
+      "total": 607
+    },
+    "glides": {
+      "accuracy": 0.9363957597173145,
+      "correct": 265,
+      "total": 283
+    },
+    "affricates": {
+      "accuracy": 0.9662921348314607,
+      "correct": 86,
+      "total": 89
+    }
+  },
+  "top_confusions": [
+    [
+      [
+        "iy",
+        "y"
+      ],
+      22
+    ],
+    [
+      [
+        "t",
+        "b"
+      ],
+      14
+    ],
+    [
+      [
+        "p",
+        "b"
+      ],
+      13
+    ],
+    [
+      [
+        "k",
+        "b"
+      ],
+      10
+    ],
+    [
+      [
+        "ih",
+        "y"
+      ],
+      9
+    ],
+    [
+      [
+        "ae",
+        "ay"
+      ],
+      9
+    ],
+    [
+      [
+        "l",
+        "v"
+      ],
+      8
+    ],
+    [
+      [
+        "ay",
+        "ay"
+      ],
+      7
+    ],
+    [
+      [
+        "ih",
+        "ay"
+      ],
+      7
+    ],
+    [
+      [
+        "aa",
+        "s"
+      ],
+      6
+    ],
+    [
+      [
+        "t",
+        "s"
+      ],
+      6
+    ],
+    [
+      [
+        "sh",
+        "s"
+      ],
+      6
+    ],
+    [
+      [
+        "n",
+        "v"
+      ],
+      6
+    ],
+    [
+      [
+        "t",
+        "ih"
+      ],
+      6
+    ],
+    [
+      [
+        "d",
+        "uh"
+      ],
+      6
+    ],
+    [
+      [
+        "f",
+        "b"
+      ],
+      5
+    ],
+    [
+      [
+        "m",
+        "v"
+      ],
+      5
+    ],
+    [
+      [
+        "er",
+        "ay"
+      ],
+      5
+    ],
+    [
+      [
+        "z",
+        "s"
+      ],
+      5
+    ],
+    [
+      [
+        "sh",
+        "b"
+      ],
+      5
+    ]
+  ],
+  "distance_stats": {
+    "correct": {
+      "mean": 0.4109453352309903,
+      "std": 0.08874298544848461,
+      "median": 0.40194976329803467
+    },
+    "incorrect": {
+      "mean": 0.7064949483879811,
+      "std": 0.11326226440246842,
+      "median": 0.6853880882263184
+    }
+  },
+  "confidence_stats": {
+    "correct": {
+      "mean": 0.41034348658949216,
+      "std": 0.07846139188409075,
+      "median": 0.4192229304773773
+    },
+    "incorrect": {
+      "mean": 0.20837360614412828,
+      "std": 0.03620588840648731,
+      "median": 0.21740281581878662
+    }
+  },
+  "margin_stats": {
+    "mean": -0.03669144188315403,
+    "std": 0.05308089547513529,
+    "median": -0.026675254106521606,
+    "p10": -0.09993278980255127,
+    "p90": 0.01658359169960022
+  },
+  "failed_files": 0
+}
