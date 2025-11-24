@@ -88,4 +88,4 @@ temp/
 
 # Model downloads cache
 .cache/
-transformers_cache/
+transformers_cache/artifacts/embeddings_large_train.npz
