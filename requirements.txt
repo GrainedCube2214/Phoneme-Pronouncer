@@ -3,10 +3,19 @@
 # Generated from working environment
 
 # Core ML/Audio
-torch==2.2.2
-torchaudio==2.2.2
+torch==2.6.0
+torchaudio==2.6.0
 transformers==4.57.1
 safetensors==0.6.2
+
+# Whisper for STT (Branch 2)
+openai-whisper==20231117
+
+# Sentence Transformers for semantic similarity (Branch 2)
+sentence-transformers==3.3.1
+
+# String distance metrics (Branch 2)
+python-Levenshtein==0.27.1
 
 # Numerical & Scientific
 numpy==1.26.4
