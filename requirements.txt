@@ -47,7 +47,7 @@ ipython==8.37.0
 jupyter_client==8.6.3
 jupyter_core==5.9.1
 
-# Additional dependencies from your env
+# Additional dependencies
 numba==0.62.1
 llvmlite==0.45.1
 networkx==3.4.2
@@ -56,4 +56,3 @@ PyYAML==6.0.3
 requests==2.32.5
 
 # Note: MFA itself runs in separate conda env (vmfa)
-# See SETUP.md for complete installation instructions
