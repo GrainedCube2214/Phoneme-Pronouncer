@@ -7,7 +7,7 @@ else:
 
 
 
-skip = True # Set to False to create virtual environment and install packages, True to skip (debugging purpose)
+skip = False # Set to False to create virtual environment and install packages, True to skip (debugging purpose)
 if skip:
     print("Skipping virtual environment creation and package installation. This should not happen in normal usage. Please set skip = False.")
 else:
