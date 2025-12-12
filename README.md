@@ -1,5 +1,7 @@
 # Zero-Shot Phoneme-Level Pronunciation Checker
 
+_Outdated, see report.pdf instead for setup instructions_
+
 A real-time pronunciation feedback system using pre-trained Wav2Vec2-Large embeddings and prototype-based classification. Achieves **94.1% accuracy** on TIMIT benchmark with zero task-specific training.
 
 ---
